@@ -1,4 +1,5 @@
-Report of 808.06.2026                                                                                                                                                                                  # Cohort Retention & Customer Lifetime Value (CLTV) Analysis
+Report of 808.06.2026                                                                                                                                                                                 
+# Cohort Retention & Customer Lifetime Value (CLTV) Analysis
 
 ## Team Members
 
