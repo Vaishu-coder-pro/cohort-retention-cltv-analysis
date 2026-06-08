@@ -1,7 +1,7 @@
 Report of 808.06.2026                                                                                                                                                                                 
 # Cohort Retention & Customer Lifetime Value (CLTV) Analysis
 
-## Team Members
+## Team Members:
 
 * Vaishnavi M
 * Gokul RJ
@@ -9,7 +9,7 @@ Report of 808.06.2026
 * Anisha
 
 
-## Project Objective
+## Project Objective:
 
 To analyse customer retention behaviour and calculate Customer Lifetime Value (CLTV) using e-commerce transaction data and business analytics techniques. The project aims to identify customer retention patterns, customer segments, churn behaviour, and long-term customer value through advanced data analytics and visualisation techniques.
 
