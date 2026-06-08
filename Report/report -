@@ -1,0 +1,91 @@
+                                                                                                                                                                                  # Cohort Retention & Customer Lifetime Value (CLTV) Analysis
+## Team Members
+
+ Vaishnavi M
+ Gokul RJ
+ Sri Devi
+ Anisha
+
+
+## Project Objective
+
+To analyse customer retention behaviour and calculate Customer Lifetime Value (CLTV) using e-commerce transaction data and business analytics techniques. The project aims to identify customer retention patterns, customer segments, churn behaviour, and long-term customer value through advanced data analytics and visualisation techniques.
+
+## Dataset
+
+### Selected Dataset
+Online Retail II Dataset
+### Dataset Selection Process
+
+* Researched multiple datasets from Kaggle, UCI Repository, and public data sources.
+* Compared datasets based on project requirements and business objectives.
+* Evaluated transaction-based e-commerce datasets suitable for customer analytics.
+* Selected the Online Retail II Dataset as the primary dataset due to its suitability for Cohort Analysis, Customer Retention Analysis, CLTV Analysis, RFM Segmentation, and Churn Analysis.
+
+### Key Dataset Parameters
+
+* CustomerID
+* InvoiceNo
+* InvoiceDate
+* StockCode
+* Product Description
+* Quantity
+* UnitPrice
+* Country
+Daily Internship Progress Report
+Date: 08 June 2026
+Project Title: Cohort Retention & Customer Lifetime Value (CLTV) Analysis
+
+##Work Completed Today
+1. Project Scope Understanding
+• Studied the concepts of Cohort Retention Analysis and Customer Lifetime Value (CLTV).
+• Understood the business objectives of customer retention and customer value analysis.
+• Identified the key analyses required for the project.
+
+2. Dataset Research
+• Explored various datasets suitable for Cohort Retention and CLTV Analysis.
+• Evaluated e-commerce transaction datasets as the most suitable option.
+• Compared different sources such as Kaggle, UCI Repository, and other public datasets.
+
+3. Dataset Evaluation
+• Selected the Online Retail dataset for project implementation.
+• Reviewed available parameters including CustomerID, InvoiceNo, InvoiceDate, Quantity, UnitPrice,
+Product Description, and Country.
+• Assessed dataset suitability for retention and customer lifetime value calculations.
+
+4. Parameter Identification
+• Identified key fields required for Cohort Retention Analysis:
+• CustomerID
+• InvoiceDate
+• Identified key fields required for CLTV Analysis:
+• CustomerID
+• InvoiceDate
+• Quantity
+• UnitPrice
+
+5. Project Planning
+• Defined the project workflow:
+• Data Collection
+• Data Cleaning
+• Exploratory Data Analysis
+• Cohort Retention Analysis
+• CLTV Analysis
+• Customer Segmentation
+• Dashboard Development
+• Final Documentation
+
+Key Learnings
+• Learned how cohort analysis tracks customer retention over time.
+• Learned how CLTV measures the long-term value of customers.
+• Understood the importance of customer transaction data in customer analytics projects.
+• Identified the essential parameters required for both analyses.
+
+Next Day Plan
+• Import the dataset.
+• Perform data cleaning and preprocessing.
+• Handle missing values and duplicate records.
+• Create revenue calculation fields.
+• Prepare the dataset for cohort analysis.
+
+Status
+Project Initialization and Dataset Evaluation Completed.
