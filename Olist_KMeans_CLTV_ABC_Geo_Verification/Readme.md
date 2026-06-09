@@ -1,0 +1,1 @@
+This folder contains the necessary files for Olist_KMeans_CLTV_ABC_Geo_Verification
