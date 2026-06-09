@@ -22,4 +22,24 @@ Current Status:
 - Clean Dataset Exported
 
 Next Step:
-Customer Lifetime Value (CLTV) Analysis
+Customer Lifetime Value (CLTV) Analysis 
+
+
+Second Half Update (09.06.2026)
+
+Today I continued working on Project 2 and completed the Cohort Retention Analysis. I created the Purchase Month, Cohort Month and Cohort Index features, then generated the retention matrix and retention rate table to analyse customer retention behaviour over time.
+
+After completing the cohort analysis, I worked on Business Insights Analysis using the cleaned dataset. I calculated important business metrics such as total revenue, total customers, total orders and average delivery days. I also analysed revenue by product category, state-wise revenue performance, payment methods and delivery status.
+
+The generated datasets were saved for future dashboard development and reporting. I also updated the notebooks with explanations and outputs and pushed the latest work to the GitHub repository.
+
+Current completed modules:
+
+* Data Cleaning and Preparation
+* Feature Engineering
+* RFM Analysis
+* CLTV Analysis
+* Cohort Retention Analysis
+* Business Insights Analysis
+
+Next, I plan to work on Product Analysis, Customer Clustering, Churn Analysis, Revenue Forecasting and Power BI dashboard development.
