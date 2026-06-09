@@ -1,0 +1,196 @@
+# Customer Retention and Revenue Forecasting Analysis
+
+## Progress Report – Day 2
+
+### Project Title
+
+Customer Retention Analysis and Revenue Forecasting using E-Commerce Transaction Data
+
+### Objective
+
+The objective of this phase was to analyze revenue performance, identify revenue contribution patterns, and forecast future revenue trends using historical transaction data.
+
+---
+
+## 1. Revenue Analysis
+
+### Purpose
+
+Revenue analysis was performed to understand business performance, identify revenue trends, and determine the key contributors to overall revenue generation.
+
+### Monthly Revenue Aggregation
+
+The transaction-level data was aggregated at the monthly level to calculate total revenue generated in each month.
+
+The monthly revenue dataset was prepared using:
+
+* Purchase Date
+* Order Information
+* Revenue Values
+
+This aggregation helped transform the transactional data into a time-series format suitable for trend analysis and forecasting.
+
+---
+
+### Monthly Revenue Trend Analysis
+
+A monthly revenue trend analysis was performed to visualize revenue fluctuations across different periods.
+
+The analysis helped identify:
+
+* Revenue Growth Trends
+* Seasonal Variations
+* High Revenue Periods
+* Low Revenue Periods
+
+A line chart was created to visualize monthly revenue performance.
+
+---
+
+### Revenue Contribution Analysis
+
+Revenue contribution analysis was conducted to identify the entities contributing the largest share of total revenue.
+
+The following dimensions were analyzed:
+
+* Product Categories
+* Customer Segments
+* Geographic Regions
+* Individual Customers
+
+Contribution percentages were calculated using:
+
+Revenue Contribution (%) = (Entity Revenue / Total Revenue) × 100
+
+This analysis helped identify the most important revenue-generating segments within the business.
+
+---
+
+## 2. Revenue Forecasting
+
+### Purpose
+
+Revenue forecasting was performed to estimate future business revenue using historical transaction data.
+
+### Data Preparation
+
+The monthly revenue dataset was prepared for forecasting by:
+
+* Aggregating revenue by month
+* Sorting data chronologically
+* Checking trend consistency
+* Validating time-series structure
+
+---
+
+### Forecast Model Preparation
+
+Historical revenue values were analyzed to identify:
+
+* Overall Revenue Trend
+* Growth Patterns
+* Seasonal Behaviour
+
+The prepared dataset was used to generate future revenue predictions.
+
+---
+
+### Forecast Visualization
+
+A forecast trend chart was created to compare:
+
+* Historical Revenue
+* Predicted Revenue
+* Future Business Growth Trends
+
+The visualization provides an estimate of expected revenue performance in upcoming periods.
+
+---
+
+## Key Findings
+
+### Revenue Analysis Findings
+
+* Revenue demonstrates fluctuations across different months.
+* Certain periods generate significantly higher revenue than others.
+* Revenue contribution is concentrated among specific customer and product segments.
+
+### Revenue Forecasting Findings
+
+* Historical revenue patterns indicate future growth opportunities.
+* Forecast results provide visibility into expected business performance.
+* Forecasting can support inventory planning, budgeting, and strategic decision-making.
+
+---
+
+## Work Completed
+
+✓ Monthly Revenue Aggregation
+
+✓ Revenue Trend Analysis
+
+✓ Revenue Contribution Analysis
+
+✓ Revenue Growth Analysis
+
+✓ Time-Series Data Preparation
+
+✓ Revenue Forecast Dataset Creation
+
+✓ Forecast Trend Visualization
+
+✓ Business Insight Generation
+
+---
+
+## Current Progress
+
+Data Loading – Completed
+
+Data Cleaning – Completed
+
+Missing Value Handling – Completed
+
+Feature Engineering – Completed
+
+Data Merge – Completed
+
+RFM Analysis – Completed
+
+Customer Segmentation – Completed
+
+Cohort Analysis – Completed
+
+Revenue Analysis – Completed
+
+Revenue Forecasting – Completed
+
+---
+
+## Next Steps
+
+The following tasks are planned for the next phase:
+
+### Customer Analytics
+
+* Customer Lifetime Value (CLTV) Analysis
+* Customer Churn Analysis
+* Customer Churn Prediction
+
+### Advanced Analytics
+
+* Customer Clustering
+* Product Performance Analysis
+* Business Recommendation Generation
+
+### Dashboard Development
+
+* Power BI Dashboard Design
+* KPI Development
+* Interactive Business Visualizations
+
+---
+
+## Conclusion
+
+The revenue analysis and forecasting phase has been successfully completed. Monthly revenue trends and contribution patterns were analyzed to understand business performance. Revenue forecasting was conducted to estimate future revenue trends and support strategic business planning. The project is now ready to move into advanced customer analytics and dashboard development.
