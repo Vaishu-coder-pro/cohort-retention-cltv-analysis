@@ -43,3 +43,122 @@ Current completed modules:
 * Business Insights Analysis
 
 Next, I plan to work on Product Analysis, Customer Clustering, Churn Analysis, Revenue Forecasting and Power BI dashboard development.
+
+
+# Daily Progress Report – 10.06.2026
+
+## Work Completed
+
+### Product Analysis
+
+Completed detailed product performance analysis using the cleaned Olist dataset.
+
+Activities performed:
+
+* Analysed top revenue-generating product categories.
+* Identified most sold product categories.
+* Calculated monthly revenue trends.
+* Analysed top revenue-generating products.
+* Generated product performance KPIs.
+* Exported dashboard-ready datasets.
+
+Deliverables:
+
+* product_category_revenue.csv
+* monthly_revenue.csv
+* top_categories.csv
+
+### Customer Clustering Analysis
+
+Implemented customer segmentation using K-Means Clustering.
+
+Activities performed:
+
+* Created customer-level aggregation dataset.
+* Engineered customer behavioural features including revenue, frequency, average order value and recency.
+* Applied feature standardisation.
+* Performed K-Means clustering.
+* Generated customer cluster profiles.
+* Analysed cluster-wise revenue contribution.
+* Created customer segment distribution reports.
+
+Deliverables:
+
+* customer_clusters.csv
+* cluster_summary.csv
+* cluster_revenue.csv
+
+### Churn Analysis
+
+Performed customer churn and retention intelligence analysis.
+
+Activities performed:
+
+* Calculated customer recency.
+* Created churn flags and churn rate metrics.
+* Developed churn risk segmentation.
+* Estimated revenue at risk.
+* Created customer health scores.
+* Generated customer action recommendations.
+* Prepared dashboard-ready churn datasets.
+
+Deliverables:
+
+* customer_churn.csv
+* churn_dashboard.csv
+* risk_revenue.csv
+
+### Churn Prediction Model
+
+Developed a machine learning-based churn prediction model using Random Forest.
+
+Activities performed:
+
+* Prepared customer-level training dataset.
+* Created churn target variable.
+* Trained and evaluated the churn prediction model.
+* Calculated churn probability scores.
+* Generated future churn risk categories.
+* Identified top future churn customers.
+* Analysed feature importance.
+* Exported prediction datasets for future dashboard integration.
+
+Deliverables:
+
+* customer_churn_predictions.csv
+* future_churn_customers.csv
+* feature_importance.csv
+* model_performance.csv
+
+### Documentation and Repository Updates
+
+* Updated GitHub repository with completed notebooks and datasets.
+* Added screenshots of important outputs and analysis results.
+* Updated README documentation.
+* Organised project folders and deliverables.
+* Maintained phase-wise commit history and project tracking.
+
+## Current Project Status
+
+Completed Modules:
+
+* Data Cleaning and Preparation
+* Feature Engineering
+* Missing Value Handling
+* RFM Segmentation
+* CLTV Analysis
+* Cohort Retention Analysis
+* Business Insights Analysis
+* Product Analysis
+* Customer Clustering
+* Churn Analysis
+* Churn Prediction Model
+
+## Planned Work
+
+* Revenue Forecasting
+* Power BI Dashboard Development
+* Streamlit Web Application
+* AI Insight Generator
+* Automated PDF Reporting
+* Final Project Documentation
