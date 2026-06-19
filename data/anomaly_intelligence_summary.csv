@@ -1,0 +1,4 @@
+Anomaly_Type,Count,Severity_Score,Severity_Level
+Health,0,0.0,Low
+Risk,0,0.0,Low
+Strategic Value,6826,100.0,Critical
