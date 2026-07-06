@@ -1,0 +1,11 @@
+Metric,Value
+Total Customers,4183
+Active Customers,635
+At Risk Customers,835
+Churned Customers,2713
+Churn Rate (%),64.86
+Revenue Lost,286769.79000000004
+Top Churn State,AC
+Top Revenue Loss State,SP
+Top Churn Product,Unknown
+Top Revenue Loss Product,sports_leisure

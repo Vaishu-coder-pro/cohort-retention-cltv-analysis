@@ -1,0 +1,4 @@
+Churn_Status,Customer_Count,Churn_Percentage
+Churned,2713,64.86%
+At Risk,835,19.96%
+Active,635,15.18%
